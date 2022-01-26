@@ -1,0 +1,13 @@
+.footer {
+  width: 100%;
+
+  img {
+    background-repeat: repeat-x;
+    background-size: 1000px;
+    content: "";
+    height: 200px;
+    bottom: -200px;
+    position: absolute;
+    width: 100%;
+  }
+}
